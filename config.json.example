@@ -1,0 +1,18 @@
+{
+    "api_id": 0,
+    "api_hash": "YOUR_API_HASH_HERE",
+    "app_title": "Telegram Account Manager",
+    "device_model": "GitHub-Release-Bot",
+    "system_version": "Windows 11",
+    "app_version": "1.0.0",
+    "proxy": {
+        "use": true,
+        "server": "127.0.0.1",
+        "port": 7890,
+        "user": "",
+        "pass": ""
+    },
+    "target_user_id": 777000,
+    "session_dir": "sessions",
+    "status_cache": "status_cache.json"
+}
